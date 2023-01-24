@@ -9,7 +9,7 @@ namespace CommonUtils.Inspector
 
     public class InspectorUtilities : EditorWindow 
     {
-        [MenuItem("Assets/CommonUtils/Check Asset Type", false, 0)]
+        [MenuItem("Common Utils/Check Asset Type", false, 0)]
         public static void CheckAssetType(MenuCommand command) {
             string[] assetGUIDS = Selection.assetGUIDs;
             foreach (var guid in assetGUIDS)
