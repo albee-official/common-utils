@@ -1,0 +1,19 @@
+{
+  "name": "com.albee-official.common-utils",
+  "version": "1.0.0",
+  "displayName": "Common Utils",
+  "description": "My common utilities. This package is required by mostly every other of my packages.",
+  "documentationUrl": "https://github.com/albee-official/common-utils/blob/master/README.md",
+  "changelogUrl": "https://github.com/albee-official/common-utils/releases",
+  "licensesUrl": "https://github.com/albee-official/common-utils/blob/master/LICENSE",
+  "dependencies": {
+ },
+ "keywords": [
+    "utility"
+  ],
+  "author": {
+    "name": "Albee",
+    "email": "sawukalu164@gmail.com",
+    "url": "https://github.com/albee-official"
+  }
+}
